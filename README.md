@@ -1,1 +1,2 @@
-# new_repository
+  - [Preview](https://viktoriia-kravchenko.github.io/new_repository/)
+  - [Pull Request](https://github.com/viktoriia-kravchenko/new_repository/pull/1/files)
